@@ -2,7 +2,7 @@
 
 /********************************************************************
  *
- *
+ *    (C) 2018
  *
  *      Acest folder /administrare/ este pentru administrarea continutului
  *      in format mai lejer pentru Tase
@@ -11,7 +11,7 @@
  *      facute doar de mine.
  * 
  * 
- * 		Acest folder este pentru primar. Nu mai este pentru Tase.
+ * 		  Acest folder este pentru primar. 
  *
  *      
  *
